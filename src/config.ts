@@ -43,5 +43,10 @@ export const collections: CollectionConfig[] = [
     id: 'kubernetes',
     name: 'Kubernetes',
     isIsometric: false
+  },
+  {
+    id: 'budtech',
+    name: 'Budtech',
+    isIsometric: false
   }
 ];
